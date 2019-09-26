@@ -1,0 +1,45 @@
+/*body.works{*/
+/*    width:100%;*/
+/*    height:100%;*/
+    /*background:url(../foto/livingRoom1.jpg) center fixed no-repeat;*/
+/*    background-color: #e9ebeb;*/
+/*    background-size: cover;*/
+/*}*/
+
+h3, .h3 {
+    /*font-family: cursive;*/
+    text-align: center;
+    font-style: italic;
+    font-variant: common-ligatures;
+}
+
+.card-deck .card {
+    margin-bottom: 30px!important;
+}
+
+.mainDescription {
+    margin-bottom: 30px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.dropdown-toggle::after {
+    display: contents;
+}
+
+.dropdown-menu {
+
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute;
+    right: -24px;
+    background: azure;
+}
